@@ -1,8 +1,8 @@
 ### Pavel Dumenko (@pidumenk) 👋
 
-I’m an organized and methodical **System Engineer** with 3+ years of experience installing, configuring and maintaining Linux OS, leveraging configuration management, CI/CD, and DevOps processes on-premise and in the cloud.
+I’m an organized and methodical **DevOps Engineer** with 3+ years of experience installing, configuring and maintaining Linux OS, leveraging configuration management, CI/CD, and DevOps processes on-premise and in the cloud.
 
-- 🔭 I work as a **System Solutions Engineer** at **N26**.
+- 🔭 I work as a **Platform Engineer** at **Ladenzeile**.
 - 🌱 I’m currently preparing to obtain my **AWS Solution Architect certification**.
 - 👯 I would like to be a part of ambitious and challenging projects.
 - 🤔 I’m looking for interesting opportunities and modern tech stack.
