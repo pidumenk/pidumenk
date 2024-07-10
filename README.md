@@ -2,7 +2,7 @@
 
 I’m an organized and methodical **DevOps Engineer** with 3+ years of experience installing, configuring and maintaining Linux OS, leveraging configuration management, CI/CD, and DevOps processes on-premise and in the cloud.
 
-- 🔭 I work as a **Platform Engineer** at **Ladenzeile**.
+- 🔭 I work as a **DevOps Engineer** at **Holidu**.
 - 🌱 I’m currently preparing to obtain my **AWS Solution Architect certification**.
 - 👯 I would like to be a part of ambitious and challenging projects.
 - 🤔 I’m looking for interesting opportunities and modern tech stack.
